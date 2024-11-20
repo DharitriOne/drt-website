@@ -116,7 +116,7 @@ const Header = () => {
                     <span>About </span>
                     {aboutDropdown && (
                         <div className="dropdown-menu">
-                            <div className="dropdown-item"><Link to="/about/dharitri-to-Dharitri">From Dharitri to Dharitri</Link></div>
+                            <div className="dropdown-item"><Link to="/about/dharitri-to-Dharitri">Dharitri</Link></div>
                             <div className="dropdown-item"><Link to="/about/media-kit">Media Kit</Link></div>
                             <div className="dropdown-item"><Link to="/about/careers">Careers</Link></div>
                         </div>
