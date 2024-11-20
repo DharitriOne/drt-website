@@ -1,0 +1,35 @@
+/* src/components/FAQSection/FAQSection.css */
+.faq-section {
+    padding: 50px;
+    background-color: #f1f1f1;
+    text-align: center;
+}
+
+.faq-section h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.faq-items {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.faq-item {
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+    cursor: pointer;
+}
+
+.faq-question {
+    font-size: 1.2em;
+    color: #333;
+}
+
+.faq-answer {
+    font-size: 1em;
+    color: #555;
+    padding-top: 5px;
+}

@@ -1,0 +1,27 @@
+/* src/components/IntroSection/IntroSection.css */
+.intro-section {
+    padding: 50px;
+    text-align: center;
+    background-color: #1a1a1a;
+    color: #fff;
+}
+
+.intro-section h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+.intro-section p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+.primary-button {
+    padding: 10px 20px;
+    font-size: 1em;
+    background-color: #e8b923;
+    color: #000;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
